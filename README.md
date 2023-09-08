@@ -2,5 +2,4 @@ hey - i'm krish. most my work is private around 80 repos - working on making mor
 
 currently giving finals - updating this right after that :p
 
-check out my twitter : https://twitter.com/krishnerkar
-personal website : https://krishnerkar.com
+check out my [twitter](https://twitter.com/krishnerkar) and [website](https://krishnerkar.com)
